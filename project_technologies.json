@@ -5,9 +5,7 @@
         "platforms": 
         [windows],
         "toolkits": 
-        [kinekt,opengl]
+        [kinekt/opengl]
     },
-    "themes": [
-      
-    ]
+    "themes": [saxelectro]
 }
