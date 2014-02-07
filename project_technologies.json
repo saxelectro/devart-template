@@ -1,11 +1,11 @@
 {
     "technologies": {
         "apis": 
-        [youtube,twitter],
+        [youtube twitter],
         "platforms": 
         [windows],
         "toolkits": 
-        [kinekt/opengl]
+        [kinekt opengl]
     },
     "themes": [saxelectro]
 }
